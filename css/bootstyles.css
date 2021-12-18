@@ -1,0 +1,52 @@
+body {
+    background-image:linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url(../assets/img/WebsiteBackground.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.heading { 
+    text-align: center;
+    font-size: 50px;
+    color: rgb(190, 190, 190);
+}
+.navbar {
+    top: 5rem;
+    left: 0rem;
+    right: 0rem;
+    height:75px;
+    background-color: rgba(112, 4, 26, 0.801);
+    text-align: center;
+    
+}
+.navwords {
+    text-align: center;
+    color: rgb(190, 190, 190);
+    font-size: 25px;
+}
+a:hover {
+    color: rgb(134, 134, 134);
+}
+
+.tabpos{
+    margin-top: 2rem;
+     margin-bottom: 2rem;"
+}
+.comment {
+    background-color: rgb(190, 190, 190);
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+footer {
+    bottom: 2px;
+    left: 0rem;
+    right: 0rem;
+    margin-top: 5rem;
+    height:75px;
+    background-color: rgba(112, 4, 26, 0.801);
+    text-align: center;
+}
+.font {
+    color: rgb(190, 190, 190);
+    font-size: 17px;
+}

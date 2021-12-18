@@ -1,0 +1,69 @@
+.newfont {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: rgb(243, 233, 193);
+    border: solid 6px rgb(128, 0, 0);
+   
+}
+.bold {
+    font-size: x-large;
+    font-weight: 600;
+}
+.listfont {
+  font-size: large;
+  font-weight: 300;
+}
+.heading {
+  text-align: center;
+}
+.cta {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(75, 86, 117, 0.685);
+}
+#NewmainNav {
+    background-color: rgba(128, 0, 0, 0.596);
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+.footer {
+    background-color: rgba(128, 0, 0, 0.596);
+  }
+.btn-primary {
+    color: #000;
+    background-color: #6885a5;
+    border-color: #6885a5;
+  }
+  
+.picpos {
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  margin-left: 36.5rem;
+
+}
+.picpos2 {
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  margin-left: 31rem;
+  
+}
+.textbox {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+.textbox2 {
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+.picpos3 {
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  margin-left: 29rem;
+  
+}
+
+
+ 
